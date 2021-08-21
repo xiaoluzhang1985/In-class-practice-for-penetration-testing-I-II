@@ -1,1 +1,1 @@
-# In-class-practice-for-penetration-testing-I-II
+# In-class practice for penetration testing I & II
